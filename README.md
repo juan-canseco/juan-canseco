@@ -1,4 +1,4 @@
-### Console.WriteLine("Hello, I'm Juan Pablo Canseco an Android Dev, nice to meet you."
+### Console.WriteLine("Hi, I'm Juan Pablo Canseco");
 
 <!--
 **juan-canseco/juan-canseco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
