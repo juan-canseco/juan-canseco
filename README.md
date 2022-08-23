@@ -12,7 +12,9 @@ Soy un Desarrollador Android buscando resolver problemas del mundo real, abierto
 ### Me estoy enfocando en
 Actualmente estoy puliendo mis habilidades en el desarrollo android además también estoy aprendiendo las bases de los microservicios con .net y frontend con angular con el objetivo de convertirme en un desarrollador Fullstack.
 
-### Encuéntrame en otra parte 
+### Encuéntrame en LinkedIn
+www.linkedin.com/in/juan-pablo-canseco
+ 
 
 
 <!--
