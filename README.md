@@ -1,14 +1,17 @@
-<!--
-**juan-canseco/juan-canseco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ¡Hola, Soy Juan Pablo Canseco! ✌️
+Soy un Desarrollador Android buscando resolver problemas del mundo real, abierto a oportunidades.
 
-Here are some ideas to get you started:
+### Tengo experiencia con
+- Android SDK (Java, Kotlin)
+- Android Jetpack (LifeCycle, Navigation Component, Room, Paging)
+- Firebase
+- C# DotNet6
+- Spring Boot (Java)
+- Sql Server 
+- MongoDb
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Me estoy enfocando en
+Actualmente estoy puliendo mis habilidades en el desarrollo Android además también estoy aprendiendo backend con Spring Boot y DotNet6.
+
+### Encuéntrame en LinkedIn
+www.linkedin.com/in/juan-pablo-canseco
