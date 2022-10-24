@@ -12,6 +12,3 @@ Soy un Desarrollador Android buscando resolver problemas del mundo real, abierto
 
 ### Me estoy enfocando en
 Actualmente estoy puliendo mis habilidades en el desarrollo Android además también estoy aprendiendo backend con Spring Boot y DotNet6.
-
-### Encuéntrame en LinkedIn
-www.linkedin.com/in/juan-pablo-canseco
