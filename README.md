@@ -4,8 +4,9 @@ Soy un Desarrollador Android que actualmente se está formando en el desarrollo 
 - Android SDK (Java, Kotlin)
 - Android Jetpack (LifeCycle, Navigation Component, Room, Paging)
 - Firebase
-- Spring Boot (Java)
-- Sql Server 
+- Spring Boot (Java, Kotlin)
+- MySql
+- Redis 
 - MongoDB
 
 
